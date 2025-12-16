@@ -1,5 +1,6 @@
 ## Run in Termux 
 
+```python
 pkg update -y
 pkg upgrade -y
 pkg install python -y
